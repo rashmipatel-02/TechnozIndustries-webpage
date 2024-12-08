@@ -1,0 +1,12 @@
+.WCbox-container .WCbox {
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 20px 30px;
+    margin: 10px 0;
+}
+
+@media (min-width: 768px) {
+    .WCbox-container .WCbox {
+        box-sizing: content-box;
+    }
+}

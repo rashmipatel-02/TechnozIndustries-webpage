@@ -1,0 +1,30 @@
+.logo{
+    height: 40px;
+}
+.navbar-toggler{
+    background-color: #F58634;
+}
+.navbar-nav li{
+    padding: 0px 10px;
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+.getintouch{
+    font-size: 16px;
+    font-weight:500;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 8px 18px;
+    border-radius: 8px;
+}
+.getintouch i{
+    height: 20px;
+    width: 23px;
+}
+.getintouch:hover{
+    color: #F58634;
+    border-color: #F58634;
+}
+

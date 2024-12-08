@@ -1,0 +1,30 @@
+.review-container .review-img img{
+    height: 600px;
+    width: 100%;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.review-container .review .slider-container {
+    /* width: 95%; */
+    padding: 10px 0;
+}
+
+.review-container .review .slider-container .slide {
+    line-height: 1.7;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+
+.review-container .review .slider-container .slide .m-2 {
+    border: 1px solid rgba(255, 255, 255, 0.788);
+    border-radius: 10px;
+    padding: 30px 20px;
+}
+
+.review-container .review .button {
+    margin: 10px;
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,50 @@
+.fire-bg {
+    background-image: url('https://web.technozindustries.com/wp-content/uploads/2024/09/a-firefighter-in-training-sprays-a-burning-car-with-a-fire-hose-nozzle-e1697426070836.jpg');
+    height: 70vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    background-attachment: fixed;
+    position: relative;
+    z-index: -1;
+}
+.playicon{
+    position: absolute;
+    top: 30%;
+    left: 47%;
+    font-size: 80px;
+    color: white;
+}
+
+.counter-section {
+    padding: 50px;
+    text-align: center;
+    z-index: 1;
+}
+
+.counter-box {
+    /* gap: 50px; */
+    background-image:linear-gradient(90deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://web.technozindustries.com/wp-content/uploads/2024/09/image-1920x900-12.jpg");
+    margin-top: -120px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 20px 5px rgba(255, 255, 255, 0.1)
+}
+
+.counter {
+    padding: 40px 30px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.counter h2 {
+    font-size: 5rem;
+    color: #f58634;
+}
+
+.counter p {
+    margin: 0;
+    font-size: 1.5rem;
+    color: white;
+}
